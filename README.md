@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsvonvon" target="blank"><img src="https://img.shields.io/twitter/follow/itsvonvon?logo=twitter&style=for-the-badge" alt="itsvonvon" /></a> </p>
 
-- 🔭 I’m currently working on [Start Up RadjaKamera](https://radjakamera.com/)
+- 🔭 I’m currently working on [PT. Barata Indonesia(Persero)](https://www.barata.id/)
 
 - 🌱 I’m currently learning **Golang & React Js**
 
