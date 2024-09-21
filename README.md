@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satria Abimanyu</h1>
-<h3 align="center">I am a semester 5 student at Muhammadiyah University of Malang with multiple internship experiences within campus organizations, including holding the position of Head Staff in the Social Media division. I possess excellent skills in data manipulation using SQL and have a keen interest in UI/UX design. My career aspirations are focused on the Back-End feld and the industrial sector, particularly in data processing, while also remaining open to other career opportunities.</h3>
+<h3 align="center">I am a Software Engineer with a strong passion for web development and UI/UX design, currently pursuing a Bachelor’s degree in Informatics Engineering at Universitas Muhammadiyah Malang. With hands-on experience in front-end and back-end technologies such as React, Node.js, and Golang, I have worked on projects ranging from secure payment systems to comprehensive device management applications. I enjoy creating intuitive and user-friendly digital solutions that address real-world challenges. I'm always eager to take on new challenges and continue growing in this ever-evolving field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bima595&label=Profile%20views&color=0e75b6&style=flat" alt="bima595" /> </p>
 
