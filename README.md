@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satria Abimanyu</h1>
 <h3 align="center">I am a Software Engineer with a strong passion for web development and UI/UX design, currently pursuing a Bachelor’s degree in Informatics Engineering at Universitas Muhammadiyah Malang. With hands-on experience in front-end and back-end technologies such as React, Node.js, and Golang, I have worked on projects ranging from secure payment systems to comprehensive device management applications. I enjoy creating intuitive and user-friendly digital solutions that address real-world challenges. I'm always eager to take on new challenges and continue growing in this ever-evolving field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bima595&label=Profile%20views&color=0e75b6&style=flat" alt="bima595" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Bima595&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/itsvonvon" target="blank"><img src="https://img.shields.io/twitter/follow/itsvonvon?logo=twitter&style=for-the-badge" alt="itsvonvon" /></a> </p>
 
-🔭 I’m currently working on : Dinas Komunikasi Dan Informatika Surabaya<br>👯 I’m looking to collaborate on : Full Stack Web Dev<br>🤝 I’m looking for help with : Next Js and Golang<br>🌱 I’m currently learning : Golang and Typescript<br>💬 Ask me about : Full Stack Web Dev<br>⚡ Fun fact : I love eating burger, it gave me more energy to solving code
-
-- 📫 How to reach me **satriaabimanyu595@gmail.com**
+🔭 I’m currently working on : Dinas Komunikasi Dan Informatika Surabaya<br>👯 I’m looking to collaborate on : Full Stack Web Dev<br>🤝 I’m looking for help with : Next Js and Golang<br>🌱 I’m currently learning : Golang and Typescript<br>💬 Ask me about : Full Stack Web Dev<br>⚡ Fun fact : I love eating burger, it gave me more energy to solving code<br>📫 How to reach me **satriaabimanyu595@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
